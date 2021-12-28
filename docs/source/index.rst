@@ -1,4 +1,4 @@
-Welcome to blahhh
+Welcome to yaddayadda
 ===================================
 
 **Lumache** (/lu'make/) is a Python library for cooks and food lovers
